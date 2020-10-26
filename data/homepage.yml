@@ -12,6 +12,34 @@ about:
     enable: true
     label: know more
     URL: about
+service:
+  enable: true
+  title: Services
+  item:
+  - title: Communications Management
+    icon: ti-comment-alt
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: 'true'
+  - title: Social Media Engagement
+    icon: ti-instagram
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: false
+  - title: Print Design
+    icon: ti-book
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: true
+  - title: Interaction Design
+    icon: ti-panel
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: false
+portfolio:
+  enable: true
+  title: Portfolio
+  item_show: "5"
 skill:
   enable: true
   title: Skills
@@ -60,34 +88,6 @@ education:
   - title: Secondary School Certificate
     year: "1998"
     academy: Cardiff School
-service:
-  enable: true
-  title: Services
-  item:
-  - title: Communications Management
-    icon: ti-comment-alt
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: 'true'
-  - title: Social Media Engagement
-    icon: ti-instagram
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
-  - title: Print Design
-    icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: true
-  - title: Interaction Design
-    icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
-portfolio:
-  enable: true
-  title: Portfolio
-  item_show: "5"
 testimonial:
   enable: true
   title: Testimonials
