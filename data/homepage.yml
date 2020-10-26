@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Jacquie <br> Communications specialist
+  title: Hi! I’m Jacquie, <br>Communications & Design Specialist
 about:
   enable: true
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -16,17 +16,14 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Social Media Engagement
-    progress: 90%
-    color: ''
   - title: Graphic Design
     progress: 90%
     color: "#fdb157"
   - title: Motion Graphics
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Social Platforms
+    progress: 90%
     color: "#bdecf6"
   - title: Print
     progress: 70%
@@ -36,17 +33,17 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: Producer
+    company: Iloura
+    duration: Jan 2005 - Feb 2009
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: Motion Graphics Designer
+    company: ABC
+    duration: Mar 2009 - Aug 2019
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: Communications Manager
+    company: Environment Education Victora
+    duration: Aug 2019 - Present
 education:
   enable: true
   title: Education
@@ -71,12 +68,12 @@ service:
     icon: ''
     content: ''
     highlighted: ''
-  - title: UI Design
+  - title: Social Media Engagement
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: UX Design
+  - title: Print Design
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
@@ -141,6 +138,7 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
+  title: Jacquie Rynn
 blog:
   enable: false
   title: Blogs
