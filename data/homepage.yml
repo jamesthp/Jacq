@@ -138,6 +138,7 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
+  title: Jacquie Rynn
 blog:
   enable: true
   title: Blogs
