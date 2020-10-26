@@ -65,16 +65,17 @@ service:
   title: Services
   item:
   - title: Communications Management
-    icon: ''
-    content: ''
-    highlighted: ''
+    icon: ti-comment-alt
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: 'true'
   - title: Social Media Engagement
-    icon: ti-palette
+    icon: ti-instagram
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
   - title: Print Design
-    icon: ti-vector
+    icon: ti-book
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
