@@ -19,16 +19,16 @@ skill:
   - title: Social Media Engagement
     progress: 90%
     color: ''
-  - title: Web Design
+  - title: Graphic Design
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Motion Graphics
     progress: 60%
     color: "#9473e6"
   - title: After Effects
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: Print
     progress: 70%
     color: "#ffbcaa"
 experience:
@@ -67,6 +67,10 @@ service:
   enable: true
   title: Services
   item:
+  - title: Communications Management
+    icon: ''
+    content: ''
+    highlighted: ''
   - title: UI Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
